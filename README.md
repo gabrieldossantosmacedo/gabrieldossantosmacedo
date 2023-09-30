@@ -12,6 +12,7 @@
 </div>
 </div>
 
+
 💻 Tech Stack:   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Visual" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
