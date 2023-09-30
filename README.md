@@ -1,4 +1,4 @@
-### 👋 Hello World!! Prazer eu sou Gabriel dos Santos Macedo 👾
+### 👋 Hello World!! Prazer eu me chamo Gabriel👾
 
 - 🦗 Pequeno gafanhoto, estudante e visionário a tecnologia.
 - 💻 Estudando Java, HTML, CSS, JavaScript...
@@ -11,6 +11,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossantosmacedo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
+ ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-macedo-879753243/) 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Visual" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   →
