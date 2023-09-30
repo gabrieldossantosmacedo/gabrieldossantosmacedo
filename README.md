@@ -11,8 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldossantosmacedo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-macedo-879753243/) 
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Visual" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   →
@@ -23,6 +22,7 @@
 
 ##
 
+🌐 Socials:
 <div>
   <a href="https://www.instagram.com/bielsm87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielsantosm973@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
