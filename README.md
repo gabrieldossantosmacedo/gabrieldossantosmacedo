@@ -1,4 +1,4 @@
-### 👋 Hello World!! Prazer eu me chamo Gabriel👾
+### 👋 </Hello World> My name is Gabriel👾
 
 - 🦗 Pequeno gafanhoto, estudante e visionário a tecnologia.
 - 💻 Estudando Java, HTML, CSS, JavaScript...
